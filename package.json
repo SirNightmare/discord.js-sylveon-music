@@ -1,15 +1,14 @@
 {
-  "_from": "discord.js-musicbot-addon",
-  "_id": "discord.js-musicbot-addon@12.0.1",
+  "_from": "discord.js-sylveon-music",
+  "_id": "discord.js-sylveon-music@1.0.0",
   "_inBundle": false,
-  "_integrity": "sha512-cMpsiIjSz5SUUEYYSS3JLTh/S2kQBt8d2Fu0ZLnZsHOMrq8rC0LsFQq0nrpkw8gBIqDalTpX/bIeLCOxZRsL1Q==",
-  "_location": "/discord.js-musicbot-addon",
+  "_location": "/discord.js-sylveon-music",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "discord.js-musicbot-addon",
-    "name": "discord.js-musicbot-addon",
+    "raw": "discord.js-sylveon-music",
+    "name": "discord.js-sylveon-music",
     "escapedName": "discord.js-musicbot-addon",
     "rawSpec": "",
     "saveSpec": null,
@@ -19,15 +18,13 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/discord.js-musicbot-addon/-/discord.js-musicbot-addon-12.0.1.tgz",
-  "_shasum": "096a8bdfad2abd2e700030f7ed1ba01cafa485e0",
-  "_spec": "discord.js-musicbot-addon",
+  "_spec": "discord.js-sylveon-music",
   "_where": "C:\\Users\\Oliver\\Desktop\\lololo",
   "author": {
     "name": "demisex"
   },
   "bugs": {
-    "url": "https://github.com/DarkoPendragon/discord.js-musicbot-addon/issues"
+    "url": "https://github.com/SirNightmare/discord.js-sylveon-music/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -37,7 +34,7 @@
   },
   "deprecated": false,
   "description": "A music bot addon for Discord.js bots, using YouTube. Simply add it to a bot or run it entirely by itself.",
-  "homepage": "https://github.com/DarkoPendragon/discord.js-musicbot-addon",
+  "homepage": "https://github.com/SirNightmare/discord.js-sylveon-music",
   "keywords": [
     "discord",
     "discord.js",
@@ -51,7 +48,7 @@
   "name": "discord.js-sylveom-music",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DarkoPendragon/discord.js-musicbot-addon.git"
+    "url": "git+https://github.com/SirNightmare/discord.js-sylveon-music"
   },
   "scripts": {
     "start": "node index.js",
